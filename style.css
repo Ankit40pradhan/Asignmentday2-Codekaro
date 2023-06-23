@@ -1,0 +1,98 @@
+.container{
+    height:550px;
+    width: 450px;
+    border:1.5px solid rgb(229, 233, 234);
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 32%;
+    border-radius: 30px;
+    margin-bottom:2px;
+    box-shadow: grey;
+    
+    
+}
+.imgcard{
+    box-sizing: border-box;
+    margin: 10px;
+    height: 340px;
+    object-fit: cover;
+    border: none;
+    border-radius: 25px;
+    position: relative;
+    
+}
+.image1{
+    width: 100%;
+    border-radius: 37px;
+    height: 100%;
+    background-size: cover;
+}
+.heading{
+   
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:bold;
+    font-size: 26px;
+    padding: 0%;
+    margin: 2px;
+    margin-left: 12px;
+  
+}
+.para{    
+    padding: 0%;
+    margin: 0%;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgb(126, 126, 126);
+    margin-left: 12px;
+}
+.instruction{
+   
+    margin: 12px;
+    margin-top: 27px;
+    box-sizing: border-box;
+    border-top: 2px solid  rgb(236, 236, 236);
+    
+    
+   
+}
+.safety-para{
+    padding:0%;
+    margin:0%;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgb(126, 126, 126);
+    margin-left: 19%;
+    margin-top: 20px;
+}
+.offer{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(27, 133, 255);
+    position: absolute;
+    bottom: 17px;
+    padding: 2px;  
+}
+.time{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(241, 239, 239);
+    position: absolute;
+    bottom: 17px;  
+    right: 6px;
+    border-radius: 4px;
+    padding: 2px;
+}
+.transparent{
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgba(241, 239, 239, 0.945);
+    opacity: 0.5;
+    position: absolute;
+    top: 4px;  
+    left: 10px;
+    border-radius: 4px;
+    padding: 2px;
+
+}
